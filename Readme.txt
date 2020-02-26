@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+Saturnavt
 
-Theme Name: NewBiz
-Theme URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Saturnavt is a tool creator where we make free software tools and games.
