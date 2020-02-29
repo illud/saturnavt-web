@@ -160,7 +160,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 7px 0;
-  max-height: 26px;
+  max-height: 90px;
 }
 
 .main-pages {
@@ -1411,4 +1411,19 @@ h6 {
   #intro {
     padding: 100px 0 20px 0;
   }
+}
+
+
+#downloadBtn, visited {
+  background-color: rgb(0,103,213);
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 90px;
+}
+
+#downloadBtnhover, active {
+  background-color: red;
 }
